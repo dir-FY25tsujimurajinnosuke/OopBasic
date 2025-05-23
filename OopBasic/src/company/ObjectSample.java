@@ -1,4 +1,5 @@
 package company; 
+
 public class ObjectSample { 
 public static void main(String[] args) { 
 // ----- 変更（ここから）-----
